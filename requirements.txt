@@ -1,0 +1,10 @@
+# requirements.txt (paste these lines into the file)
+opencv-python
+mediapipe
+numpy
+scikit-learn
+tensorflow
+keras
+pyttsx3
+pyserial
+pillow
